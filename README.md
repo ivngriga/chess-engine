@@ -4,7 +4,7 @@
 
 ### Disclaimer
 
-This engine was written by 15 year old me. It is riddled with bugs and dubious technical decisions. Despite it's problems, which are many, it works well.
+This engine was written by a much younger me. Despite it's problems, which are many, it works quite well. Don't judge too harshly.
 
 ### Purpose
 
